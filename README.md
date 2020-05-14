@@ -6,9 +6,9 @@
 
 ## 地址
 
-地址 [movie-app](https://movie.songjintao.cn/home)
-api [api](https://api.songjintao.cn)
-我的博客 [博客](https://songjintao.cn)
+* 项目预览 ：[https://movie.songjintao.cn/](https://movie.songjintao.cn)
+* API接口 ：[https://api.songjintao.cn/](https://api.songjintao.cn)
+* 我的博客 ：[https://songjintao.cn](https://songjintao.cn)
 
 ## 功能
 
